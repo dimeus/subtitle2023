@@ -1,0 +1,12 @@
+[
+    {
+        file: "https://domain.com/file1.vtt",
+        label: "English",
+        kind: "captions"
+    },
+    {
+        file: "https://raw.githubusercontent.com/dimeus/subtitle2023/main/65.2023.VN.1.32.49.vtt",
+        label: "VVVVV",
+        kind: "captions"
+    }
+]
