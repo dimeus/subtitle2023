@@ -15,7 +15,7 @@
     }
   ],
   [
- {"src":"http://yoursubtitle.com/file.vtt", "label":"Language1", default: true},
+ {"src":"http://yoursubtitle.com/file.vtt", "label":"Language1", "default": true},
  {"src":"http://yoursubtitle.com/file2.vtt", "label":"Language2"}
 ]
 }
