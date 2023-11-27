@@ -1,12 +1,12 @@
 [
     {
         "file": "https://domain.com/file1.vtt",
-        "label": "English",
+        "label": "111",
         "kind": "captions"
     },
     {
         "file": "https://domain.com/file2.vtt",
-        "label": "Japanese",
+        "label": "222",
         "kind": "captions"
     }
 ]
